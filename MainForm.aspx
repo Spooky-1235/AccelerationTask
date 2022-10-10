@@ -43,7 +43,7 @@
         #form1
         {
 
-                margin-left: 27%;
+                margin-left: 28%;
                    margin-top: 15%;
         }
         #form1 h1
