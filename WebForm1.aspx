@@ -43,6 +43,40 @@
         {
             background:url(../cool-background.png);
         }
+        #TextBox1
+        {
+
+            background: no-repeat;
+            border-radius: 5px;
+            border: 1px solid black;
+            padding: 8px 0px;
+            padding-left: 4px;
+        }
+        #Area2
+        {
+            background: no-repeat;
+            border: 1px solid black;
+            padding-left: 6px;
+            border-radius: 9px;
+            width: 171px;
+            height: 56px;
+            padding-top: 6px;
+            overflow: hidden;
+        }
+        #Date1
+        {
+            background: no-repeat;
+            border: 1px solid;
+            border-radius: 5px;
+            padding: 4px 6px;
+        }
+         #Date2
+        {
+                background: no-repeat;
+                border: 1px solid;
+                border-radius: 5px;
+                padding: 4px 6px;
+        }
         #form1
         {
           margin-left: 42%;

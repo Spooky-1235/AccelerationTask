@@ -44,16 +44,53 @@
         {
             margin:0px;
             padding:0px;
-            overflow:hidden
-             
+            overflow:hidden;
         }
+         #TextBox1
+        {
+            background: no-repeat;
+            border-radius: 5px;
+            border: 1px solid black;
+            padding: 4px 0px;
+            padding-left: 4px;
+        }
+         #TextBox2
+         {
+               background: no-repeat;
+            border-radius: 5px;
+            border: 1px solid black;
+            padding: 8px 0px;
+            padding-left: 4px;
+         }
+         #Area4
+         {
+            background: no-repeat;
+            border: 1px solid black;
+            padding-left: 6px;
+            border-radius: 9px;
+            width: 171px;
+            height: 56px;
+            padding-top: 6px;
+            overflow: hidden;
+         }
          #form1 h1
         {
             color: crimson;
         }
-        body
-        {
-            background:url(../cool-background.png);
+         #Area1
+         {
+            background: no-repeat;
+            border: 1px solid black;
+            padding-left: 6px;
+            border-radius: 9px;
+            width: 171px;
+            height: 56px;
+            padding-top: 6px;
+            overflow: hidden;
+         }
+        body {
+            background: url(../cool-background.png);
+         
         }
         #RequiredFieldValidator2
         {
@@ -62,6 +99,20 @@
         #form1
         {
           margin-left: 42%;
+        }
+        #StartDate
+        {
+             background: no-repeat;
+            border: 1px solid;
+            border-radius: 5px;
+            padding: 4px 6px;
+        }
+        #EndDate
+        {
+             background: no-repeat;
+            border: 1px solid;
+            border-radius: 5px;
+            padding: 4px 6px;
         }
         .link2
         {
